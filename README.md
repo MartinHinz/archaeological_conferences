@@ -10,6 +10,10 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 
 ### April
 ### May
+* May 17–21th: Archéologie et Gobelets XXI Kiel (http://www.prehistoire.org/offres/gestion/actus_515_29044-911/archeologie-et-gobelets-xxi.html)
+
+### June
+### July
 ### August
 * August 30th – September 2nd: EAA Maastricht 2017 (http://www.eaa2017maastricht.nl/)
 
@@ -24,6 +28,8 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### March
 ### April
 ### May
+### June
+### July
 ### August
 ### September
 * 5 - 9 September 2018: 24th EAA Annual Meeting - Barcelona, Spain
@@ -38,6 +44,8 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### March
 ### April
 ### May
+### June
+### July
 ### August
 ### September
 * 4 - 8 September 2019: 25th EAA Annual Meeting - Bern, Switzerland
@@ -51,6 +59,8 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### March
 ### April
 ### May
+### June
+### July
 ### August
 * 26 - 30 August 2020: 26th EAA Annual Meeting - Budapest, Hungary
 
