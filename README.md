@@ -12,6 +12,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### May
 ### August
 * August 30th – September 2nd: EAA Maastricht 2017 (http://www.eaa2017maastricht.nl/)
+
 ### September
 ### October
 ### November
@@ -26,6 +27,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### August
 ### September
 * 5 - 9 September 2018: 24th EAA Annual Meeting - Barcelona, Spain
+
 ### October
 ### November
 ### December
@@ -51,6 +53,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### May
 ### August
 * 26 - 30 August 2020: 26th EAA Annual Meeting - Budapest, Hungary
+
 ### September
 ### October
 ### November
