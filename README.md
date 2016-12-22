@@ -97,6 +97,6 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 
 
 ## sources
-https://www.archaeological.org/events/conferences
-https://archpostgrad.wordpress.com/2016/11/09/conferences-on-archaeology-2016/
-http://www.hsozkult.de/event/page
+* https://www.archaeological.org/events/conferences
+* https://archpostgrad.wordpress.com/2016/11/09/conferences-on-archaeology-2016/
+* http://www.hsozkult.de/event/page
