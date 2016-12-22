@@ -7,6 +7,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### March
 * March 14th and 16th: CAA 2017, Atlanta (http://caaconference.org/)
 * 20-24 of March: International Open Workshop: Socio-Environmental Dynamics over the Last 12,000 Years: The Creation of Landscapes V (http://www.workshop-gshdl.uni-kiel.de/)
+* 29 March – 2 April: SAA Vancouver (http://saa.org/AbouttheSociety/AnnualMeeting/tabid/138/Default.aspx)
 
 ### April
 ### May
@@ -27,6 +28,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### February
 ### March
 ### April
+* 11 - 15th: SAA Washington, DC
 ### May
 ### June
 ### July
@@ -43,6 +45,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### February
 ### March
 ### April
+* April 10 - 14: SAA Albuquerque, New Mexico
 ### May
 ### June
 ### July
@@ -58,6 +61,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### February
 ### March
 ### April
+* April 22 - 26: SAA Austin, Texas
 ### May
 ### June
 ### July
