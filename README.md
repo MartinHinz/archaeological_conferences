@@ -29,6 +29,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### March
 ### April
 * 11 - 15th: SAA Washington, DC
+
 ### May
 ### June
 ### July
@@ -46,12 +47,14 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### March
 ### April
 * April 10 - 14: SAA Albuquerque, New Mexico
+
 ### May
 ### June
 ### July
 ### August
 ### September
 * 4 - 8 September 2019: 25th EAA Annual Meeting - Bern, Switzerland
+
 ### October
 ### November
 ### December
@@ -62,6 +65,7 @@ A calendar for archaeological conferences. Please fork and make pull requests to
 ### March
 ### April
 * April 22 - 26: SAA Austin, Texas
+
 ### May
 ### June
 ### July
