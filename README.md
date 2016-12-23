@@ -1,7 +1,3 @@
-<style>
-#markdown-toc > li:nth-child(1) > ul > li {float:left;}
-</style>
-
 * TOC
 {:toc}
 
@@ -152,3 +148,7 @@
 * https://www.archaeological.org/events/conferences
 * https://archpostgrad.wordpress.com/2016/11/09/conferences-on-archaeology-2016/
 * http://www.hsozkult.de/event/page
+
+<style>
+#markdown-toc > li > ul > li {float:left;}
+</style>
