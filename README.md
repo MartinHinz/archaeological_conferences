@@ -16,6 +16,7 @@
 ## April
 
 * 5-8 April: UK Archaeological Science conference (UKAS) 2017 (<https://www.ucl.ac.uk/archaeology/calendar/conferences/ukas2017>)
+* April 18-21: XXIe colloque d’Archéométrie Rennes (<https://gmpca2017.sciencesconf.org/>)
 * April 26–28: Commercial Networks and Cultural Connections in Thrace: Evaluating the Pottery Evidence Istanbul (<https://www.archaeological.org/events/23520>)
 
 ## May
