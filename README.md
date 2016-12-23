@@ -1,3 +1,7 @@
+<style>
+#markdown-toc > li:nth-child(1) > ul > li {float:left;}
+</style>
+
 * TOC
 {:toc}
 
