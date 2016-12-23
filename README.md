@@ -150,6 +150,6 @@
 * http://www.hsozkult.de/event/page
 
 <style>
-#markdown-toc > li {clear:both;}
+#markdown-toc > li {clear:both;list-style-type:none;}
 #markdown-toc > li > ul > li {float:left;list-style-type:none;}
 </style>
