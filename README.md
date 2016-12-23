@@ -151,6 +151,6 @@
 
 <style>
 #markdown-toc > li {clear:both;}
-#markdown-toc > li > ul {list-style-type: none;}
+#markdown-toc > li > ul {list-style-type:square;}
 #markdown-toc > li > ul > li {float:left;}
 </style>
